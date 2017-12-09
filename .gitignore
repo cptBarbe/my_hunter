@@ -1,0 +1,15 @@
+*~
+*#
+\#*#
+\#*
+vgcore*
+.gdb*
+*peda*
+*.o
+*.a
+*.out
+*.editorconfig
+*.gcda
+*.gcno
+units
+my_hunter
