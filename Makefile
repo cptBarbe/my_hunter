@@ -5,10 +5,10 @@
 ## makefile
 ##
 
-SRC	=	main.c         		\
-		my_hunter.c		\
-		textures.c		\
-		set_structures.c	\
+SRC	=	src/main.c		\
+		src/my_hunter.c		\
+		src/textures.c		\
+		src/set_structures.c	\
 
 NAME	=	my_hunter
 
